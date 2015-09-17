@@ -1,0 +1,2 @@
+Yesterday we created a directory on konsole that that will be used as
+ a journal on git hub.
